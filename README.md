@@ -20,7 +20,7 @@ I am open to new opportunities and would love to talk to you about technology an
   <img align="center" alt="Visual Studio Code" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white />
  <img align="center" alt="Adobe Photoshop" src=https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black />
 <img align="center" alt="Canva" src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white />
-  <img align="center" alt="Adobe Premiere" src=https://aleen42.github.io/badges/src/premiere.svg />
+  <img align="center" alt="Adobe Premiere" src=https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white />
 </div>
 
 ### Top Langs
